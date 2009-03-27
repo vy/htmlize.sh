@@ -1,0 +1,9 @@
+pre { background: #dbdbdb; border: 1px solid #616161; }
+a { text-decoration: none; background: inherit; color: inherit; }
+a:hover { background: yellow; }
+span.builtin { color: green; }
+span.comment, span.comment-delimiter { color: #336379; }
+span.function-name { font-weight: bold; color: blue; text-decoration: underline; }
+span.keyword { color: #6e84b0; font-weight: bold; }
+span.string { color: blue; }
+span.type { color: #313131; font-weight: bold; }
